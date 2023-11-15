@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-I'm Jason Lotz - a passionate solutions architect and full-stack software developer in Raleigh, North Carolina!
+My name is Jason Lotz.  I'm a passionate solutions architect and full-stack software developer in Raleigh, North Carolina!
 
 ## Technologies I use and love:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
