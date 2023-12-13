@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-My name is Jason Lotz.  I'm a passionate solutions architect and full-stack software developer who loves to design and implemement software solutions.
+My name is Jason Lotz.  I'm a passionate solutions architect and full-stack software developer who loves to solve problems with software.
 
 * 🌍  Based in Raleigh, North Carolina
 * ✉️  Contact me at [jasonlotz@gmail.com](mailto:jasonlotz@gmail.com)
@@ -12,7 +12,6 @@ My name is Jason Lotz.  I'm a passionate solutions architect and full-stack soft
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
@@ -25,6 +24,7 @@ My name is Jason Lotz.  I'm a passionate solutions architect and full-stack soft
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
