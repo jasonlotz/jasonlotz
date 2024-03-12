@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-My name is Jason Lotz.  I'm a passionate solutions architect and full-stack software developer who loves to solve problems with software.
+My name is Jason Lotz.  I'm a passionate solutions architect and full-stack software developer who loves to solve problems with technology.
 
 * 🌍  Based in Raleigh, North Carolina
 * ✉️  Contact me at [jasonlotz@gmail.com](mailto:jasonlotz@gmail.com)
