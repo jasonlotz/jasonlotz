@@ -43,6 +43,7 @@ My name is Jason Lotz.  I'm a passionate solutions architect and full-stack soft
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure_Cloud-4169E1?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
